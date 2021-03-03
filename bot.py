@@ -1,4 +1,8 @@
 # bot.py
+
+# *Note* This program will not run correctly because the .env token for
+# the discord server has been changed, i believe that the scrubber.py file should still have full functionality
+# assuming that the person running the code has the BeautifulSoup library installed 
 import os
 import random
 
