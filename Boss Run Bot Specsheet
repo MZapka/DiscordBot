@@ -1,0 +1,35 @@
+Boss Run Bot
+
+Admin Tools:
+	Create Event
+		Type
+		Date
+		# Participants
+		# Buyers
+		Buyer Type (Skill Book, Helm, MoN)
+	xDelete Event
+	Modify Event
+		xEvent Type - CWK/Zak/HT/etc.
+		xNumber of Parties
+			Add
+			Remove
+		xNumber of Participants
+			Add
+			Remove
+		xNumber of Buyers - SB, Helm, MoN
+			Add
+			Remove
+			Modify Buy Type
+User Tools:
+	Join Event
+	Leave Event
+Event Details: 
+	Date/Time of Event:
+		Server Time
+		Pacific Time
+		Central Time
+		Eastern Time
+User Details
+	User IGN
+	User Job
+	User Level
